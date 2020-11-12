@@ -11,3 +11,4 @@ const look = logthru;
 logthru(4 + logthru(5))
 l(4 + l(5))
 peek(4 + peek(5))
+
